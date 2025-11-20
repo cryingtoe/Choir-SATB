@@ -1,99 +1,79 @@
-# Privacy Policy
+**Privacy Policy (Enhanced Compliance Version)**
 
-*Last Updated:* 2025-11-20 12:14:25.386999
+**Effective Date:** [Please enter the issuance date here]
+**Last Updated:** [Please enter the date of last update here]
 
-This Privacy Policy describes how [Choir-SATB] (the "App") collects, uses, and discloses your information when you use the App.
+Choir-SATB (hereinafter referred to as "we," "us," or "the App") respects your privacy. We are committed to protecting your personal information by adhering to a design philosophy of data minimization, while providing functionality and services. This Privacy Policy aims to clearly and transparently explain how we collect, use, store, and protect your information, and to inform you of your rights.
 
-*1. Information We Collect*
+#### **1. Information We Collect**
 
-We collect the following information when you use the App:
+We follow the principle of "data minimization" and only collect information necessary to provide and improve the App's functionality.
 
-* *Personal Information:* Name, Email Address, Location Data, Usage Data, Device Information, Other Information, Cookies
+**1.1 Information You Provide Directly**
+*   **Contact Information:** When you contact us for technical support or feedback via email, we collect the contact details you voluntarily provide (such as your email address, name) and the content of your communication. This is necessary for us to assist you.
+*   **App Data:** The core functionality of this App (such as creating or processing music files) is performed locally on your device. **We do not actively transfer or back up the projects you create, settings, or any other in-app data to our servers.**
 
-*2. How We Use Your Information*
+**1.2 Information Collected Automatically via the Apple App Store**
+*   **Purchase Confirmation Information:** Purchases you make through the App Store are processed entirely by Apple. We only receive an anonymous transaction confirmation token from Apple to fulfill our service contract with you. For information on how Apple handles your data, please see [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+*   **Device Analytics and Crash Data:** If the App crashes, the iOS system may collect anonymous diagnostic information through its "Crash Reporting" feature (such as device type, operating system version, crash timestamp, and stack trace information). This data is processed by Apple and provided to us **solely for diagnosing and fixing bugs, and improving App stability. This data is not directly linked to your personal identity, and we do not use it to track you.** Please be aware that, in a legal context, such information associated with device identifiers may be considered device data.
 
-We use your information to provide and improve the App services, personalize your experience, and communicate with you. This includes:
+**1.3 Integrated Third-Party Services**
+To provide core functionality and for analysis and maintenance purposes, we integrate the following third-party services. These providers process relevant data according to their own privacy policies:
+*   **Apple App Store:** For App distribution and processing in-app purchase transactions.
+*   **[Please confirm and list any other services here, e.g., Firebase Crashlytics, Google Analytics, etc. If none, retain the statement below.]**
+*   **We Declare:** As of the last update date of this policy, aside from the services listed above and those explicitly mentioned elsewhere in this policy, this App does not integrate any other third-party Software Development Kits (SDKs) that collect user information.
 
-* **Providing and improving the App:** We use your information to provide and improve the features and functionality of the App.
-* **Personalizing your experience:** We use your information to personalize your experience within the App, such as by showing you relevant content.
-* **Communicating with you:** We use your information to communicate with you about the App, such as by sending you updates or notifications. 
-* **Sending push notifications:** We may send you push notifications to inform you about new features, updates, or other important information related to the App. You can disable push notifications through your device settings.
+#### **2. How We Use Your Information**
 
-*3. Sharing Your Information*
+We use your information only on the following lawful bases:
+*   **Performance of a Contract:** To provide you with the App features and services you have purchased.
+*   **Providing Customer Support:** To use the contact information you provide to respond to your inquiries and resolve issues.
+*   **Maintaining and Improving the App (Legitimate Interests):** To use anonymous crash reports from Apple to analyze overall performance, diagnose and fix problems, thereby maintaining the App's stability.
+*   **Consent:** When you proactively contact us, we process your contact information based on your consent to provide support.
 
-We may share your information with trusted third-party service providers who assist us in operating the App, such as:
+#### **3. Sharing and Disclosure of Information**
 
-* **Analytics providers:** We may use third-party analytics providers to help us understand how users are interacting with the App.
-* **Advertising networks:** We may use third-party advertising networks to serve you with relevant advertisements.
-* **Payment processors:** We may use third-party payment processors to process payments for in-app purchases.
-* **Other service providers:** We may share your information with other service providers who help us with tasks such as customer support, marketing, or data storage.
+We do not sell, trade, or share your personal information with third parties for marketing purposes.
+We may disclose information only in the following limited circumstances:
+*   **Legal Requirements:** When required to comply with a legal obligation, regulation, or valid judicial or administrative order.
+*   **Business Transfer:** In the event of a merger, acquisition, or sale of assets, we will ensure your information is transferred under confidentiality obligations and will notify the new owner to continue adhering to this policy.
 
-We do not sell or rent your personal information to third parties. We do not sell your personal information.
+#### **4. Data Security**
 
-*4. Data Security*
+We take the security of your data seriously. The core design of this App ensures your project data is stored locally on your device, under your full control. For information transmitted via email, **we take reasonably practicable security measures and ensure our collaborating service providers have corresponding security capabilities.** However, please be aware that no method of transmission over the Internet or method of electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
 
-We implement appropriate technical and organizational measures to protect your information from unauthorized access, use, disclosure, alteration, or destruction. These measures include:
+#### **5. Data Retention**
 
-* **Encryption:** We use encryption to protect your information while it is being transmitted over the internet.
-* **Access controls:** We restrict access to your information to authorized personnel.
-* **Regular security audits:** We conduct regular security audits to identify and address any vulnerabilities.
+*   **Contact Information:** We retain your contact information only for as long as necessary to provide you with support, or as required to comply with legal record-keeping obligations.
+*   **Crash Data:** Anonymous crash data collected through Apple is subject to Apple's privacy policy and practices regarding retention.
+*   **Local App Data:** The App data you create on your device is retained entirely at your discretion and managed according to your device's storage rules.
 
-*5. Data Retention*
+#### **6. Legal Basis under GDPR & Your Rights (For EEA Users)**
 
-We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+If you are located in the European Economic Area (EEA), our legal basis for processing your data is as follows:
+*   **Contractual Necessity:** To provide the App features and services you have requested.
+*   **Legitimate Interests:** Analyzing crash data to improve the App.
+*   **Consent:** When you proactively contact us, processing your contact information to provide support.
 
-*6. Data Transfers*
+Under the General Data Protection Regulation (GDPR), you have the right to:
+*   Access, rectify, or erase your personal data.
+*   Restrict or object to the processing of your personal data.
+*   Data portability.
+*   Withdraw your consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal.
 
-We may transfer your personal information to other countries, which may have different data protection laws than your country. We will take appropriate steps to protect your information in accordance with this Privacy Policy.
+To exercise these rights, please contact us using the details provided below.
 
-*7. Your Rights*
+#### **7. Children's Privacy**
 
-You have the right to access, update, or delete your personal information. You can contact us to exercise these rights.
+This App and its services **are not directed to children under the age of 13 (or the minimum age specified in your jurisdiction). We do not knowingly collect personal information from children under 13.** If we become aware that we have collected personal information from a child under 13 without verification of parental consent, we will take steps to delete that information promptly. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately.
 
-*8. Children's Privacy*
+#### **8. Changes to This Policy**
 
-The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13.
+We may update this Privacy Policy from time to time. The updated policy will become effective with the new version of the App and will be posted in the version notes on the App Store. **For material changes, we will provide prominent notice within the App or, where possible, notify you via the contact information you have provided (e.g., email).** We encourage you to review this policy periodically for the latest information. Your continued use of our services after the effective date of the updated policy constitutes your acceptance of the changes.
 
-*9. Security Breaches*
+#### **9. Contact Us**
 
-In the event of a data security breach, we will take reasonable steps to notify you and the appropriate authorities, as required by law.
+If you have any questions or concerns about this Privacy Policy, or wish to exercise your privacy rights, please contact us at:
 
-*10. California Consumer Privacy Act (CCPA)*
-
-This App is subject to the California Consumer Privacy Act (CCPA). If you are a California resident, you have the right to know what personal information we collect about you, the purposes for which we use it, and your rights to access, delete, or opt-out of the sale of your personal information. To exercise your CCPA rights, please contact us at the email address provided below.
-
-*11. Changes to This Privacy Policy*
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the updated policy on the App.
-
-*12. Contact Us*
-
-If you have any questions about this Privacy Policy, please contact us at:
-
-* *Website:* https://github.com/cryingtoe/Choir-SATB/
-* *Email:* cryingtoe@139.com
-
-*13. App Information*
-
-This App is a premium app. It does not contain advertisements.  
-
-
-*14.  Google Play Services*
-
-This app may use Google Play services, including:
-
-* *Analytics:* We use Google Analytics to collect usage data.
-* *Crashlytics:* We use Crashlytics to track and report app crashes.
-
-*15.  Third-Party Libraries and Services*
-
-This app may use third-party libraries and services. We may share your information with these third-party providers to provide you with a better experience.
-
-*16. Advertising ID*
-
-This app uses the Advertising ID for advertising purposes.
-
-*17.  Your Choices*
-
-You can choose to disable data collection, including advertising ID use, through your device settings.
-  
+*   **Email:** cryingtoe@139.com
+*   **Project Website:** [https://github.com/cryingtoe/Choir-SATB/](https://github.com/cryingtoe/Choir-SATB/)
