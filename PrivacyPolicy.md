@@ -1,7 +1,6 @@
-**Privacy Policy (Enhanced Compliance Version)**
+**Privacy Policy**
 
-**Effective Date:** [Please enter the issuance date here]
-**Last Updated:** [Please enter the date of last update here]
+**Last Updated:** 2025/11/20
 
 Choir-SATB (hereinafter referred to as "we," "us," or "the App") respects your privacy. We are committed to protecting your personal information by adhering to a design philosophy of data minimization, while providing functionality and services. This Privacy Policy aims to clearly and transparently explain how we collect, use, store, and protect your information, and to inform you of your rights.
 
