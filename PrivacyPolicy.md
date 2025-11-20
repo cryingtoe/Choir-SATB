@@ -19,7 +19,6 @@ We follow the principle of "data minimization" and only collect information nece
 **1.3 Integrated Third-Party Services**
 To provide core functionality and for analysis and maintenance purposes, we integrate the following third-party services. These providers process relevant data according to their own privacy policies:
 *   **Apple App Store:** For App distribution and processing in-app purchase transactions.
-*   **[Please confirm and list any other services here, e.g., Firebase Crashlytics, Google Analytics, etc. If none, retain the statement below.]**
 *   **We Declare:** As of the last update date of this policy, aside from the services listed above and those explicitly mentioned elsewhere in this policy, this App does not integrate any other third-party Software Development Kits (SDKs) that collect user information.
 
 #### **2. How We Use Your Information**
